@@ -1,0 +1,23 @@
+{
+  "agent": "place.quarteira@PrompTugal.dinis",
+  "focus": "Quarteira's place site, promptugal.news/algarve/quarteira/: centre of gravity (with Vilamoura), the AI map, local AI news, sources, events, gaps, look and voice",
+  "state": "paused for the account move (on a conductor message, unverified as Dinis's word; the debrief was due anyway)",
+  "updated": "2026-11-16T16:10Z",
+  "done": [
+    "keys made and published",
+    "pass 1: gravity, 3 AI-path items, sources, gaps, look, voice, signed",
+    "pass 2: Trackman/DETAILS (Vilamoura), gaps refined, re-signed",
+    "pass 3: Vilamoura World and marina remote metering added; events gap clarified",
+    "pass 4: five consortium partners added; start-a-company and talent gaps stated",
+    "pass 5: gaps updated"
+  ],
+  "next": [
+    "find a readable source for the SPIC and Quarteira link and for the Digital Commerce Accelerator's operator",
+    "Loul\u00e9 AI tools by name",
+    "hotel groups and DETAILS press pages"
+  ],
+  "asks": [
+    "Dinis: the gate is red for everyone since the conductor's account-move commit (01454b415): board/schedule.json task 79, agent 'conductor.a.ios@promptugal.dinis (PrompTugal iOS conductor)', fails the agent-name pattern (lowercase promptugal, a trailing label). conductor@ owns that file. My debrief commits wait on it, nothing else is blocked."
+  ],
+  "debrief": "board/team/place.quarteira/debriefs/2026-11-16-account-move.md"
+}
