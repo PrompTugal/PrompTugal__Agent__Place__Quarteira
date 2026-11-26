@@ -384,83 +384,83 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:33Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.quarteira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "A região portuguesa onde se vive menos tempo e com a escolaridade abaixo da média nacional",
-   "url": "https://postal.pt/economia/a-regiao-portuguesa-onde-se-vive-menos-tempo-e-com-a-escolaridade-abaixo-da-media-nacional/",
+   "title": "Caçadores do Algarve em destaque na nova edição da revista ALVA",
+   "url": "https://postal.pt/algarve/cacadores-do-algarve-em-destaque-na-nova-edicao-da-revista-alva/",
    "source": "Postal do Algarve",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:28:26Z",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:11:37Z",
    "names_place": false
   },
   "items": [
    {
-    "title": "A região portuguesa onde se vive menos tempo e com a escolaridade abaixo da média nacional",
-    "url": "https://postal.pt/economia/a-regiao-portuguesa-onde-se-vive-menos-tempo-e-com-a-escolaridade-abaixo-da-media-nacional/",
-    "published": "2026-11-25T22:05Z",
+    "title": "Caçadores do Algarve em destaque na nova edição da revista ALVA",
+    "url": "https://postal.pt/algarve/cacadores-do-algarve-em-destaque-na-nova-edicao-da-revista-alva/",
+    "published": "2026-11-26T10:50Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Viu um carro usado barato num leilão online? Faça esta conta antes de licitar",
-    "url": "https://postal.pt/nacional/viu-um-carro-usado-barato-num-leilao-online-faca-esta-conta-antes-de-licitar/",
-    "published": "2026-11-25T20:20Z",
+    "title": "Loulé distinguido com Prémio ODSlocal 2026 pelo desempenho na monitorização do desenvolvimento sustentável",
+    "url": "https://postal.pt/algarve/loule-distinguido-com-premio-odslocal-2026-pelo-desempenho-na-monitorizacao-do-desenvolvimento-sustentavel/",
+    "published": "2026-11-26T09:50Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Tem uma segunda casa onde quase não gasta eletricidade? Há uma taxa que pode deixar de pagar",
-    "url": "https://postal.pt/nacional/tem-uma-segunda-casa-onde-quase-nao-gasta-eletricidade-ha-uma-taxa-que-pode-deixar-de-pagar/",
-    "published": "2026-11-25T20:20Z",
+    "title": "Portimão celebra o Natal com 37 dias de animação gratuita, pista de gelo e mais de 60 espetáculos",
+    "url": "https://postal.pt/algarve/portimao-celebra-o-natal-com-37-dias-de-animacao-gratuita-pista-de-gelo-e-mais-de-60-espetaculos/",
+    "published": "2026-11-26T09:40Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Bebe água logo ao acordar mesmo sem ter sede? Nutricionista explica se deve manter este hábito",
-    "url": "https://postal.pt/saude/bebe-agua-logo-ao-acordar-mesmo-sem-ter-sede-nutricionista-explica-se-deve-manter-este-habito/",
-    "published": "2026-11-25T20:10Z",
+    "title": "Nem IVA zero nos alimentos nem subida do IRS nas rendas moderadas: Montenegro diz que Governo não vai aplicar as duas medidas e nega “arrogância”",
+    "url": "https://postal.pt/nacional/nem-iva-zero-nos-alimentos-nem-subida-do-irs-nas-rendas-moderadas-montenegro-diz-que-governo-nao-vai-aplicar-as-duas-medidas-e-nega-arrogancia/",
+    "published": "2026-11-26T09:30Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Cinco passeios de carro para descobrir o Algarve no inverno",
-    "url": "https://postal.pt/auto/cinco-passeios-de-carro-para-descobrir-o-algarve-no-inverno/",
-    "published": "2026-11-25T19:10Z",
+    "title": "Fatura da água vai mudar: há novas regras para o contador, o consumo e o saneamento",
+    "url": "https://postal.pt/nacional/fatura-da-agua-vai-mudar-ha-novas-regras-para-o-contador-o-consumo-e-o-saneamento/",
+    "published": "2026-11-26T09:20Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Algarve aprova revisão do programa regional de prevenção e gestão de fogos rurais",
-    "url": "https://postal.pt/algarve/algarve-aprova-revisao-do-programa-regional-de-prevencao-e-gestao-de-fogos-rurais/",
-    "published": "2026-11-25T19:00Z",
+    "title": "Tavira encerra o ano com nove sessões de cinema no Teatro Municipal António Pinheiro",
+    "url": "https://postal.pt/algarve/tavira-encerra-o-ano-com-nove-sessoes-de-cinema-no-teatro-municipal-antonio-pinheiro/",
+    "published": "2026-11-26T08:55Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   ]
  }
