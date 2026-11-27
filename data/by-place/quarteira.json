@@ -384,84 +384,10 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:37Z",
+  "read_at": "2026-11-27T18:37Z",
   "by": "place.quarteira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": {
-   "title": "Jornalista portuguesa Sofia Craveiro vence Prémio Mulheres Euro-Mediterrânicas no Jornalismo | Por João Palmeiro",
-   "url": "https://postal.pt/opiniao/jornalista-portuguesa-sofia-craveiro-vence-premio-mulheres-euro-mediterranicas-no-jornalismo-por-joao-palmeiro/",
-   "source": "Postal do Algarve",
-   "date": "2026-11-27",
-   "read_at": "2026-11-27T07:25:26Z",
-   "names_place": false
-  },
-  "items": [
-   {
-    "title": "Jornalista portuguesa Sofia Craveiro vence Prémio Mulheres Euro-Mediterrânicas no Jornalismo | Por João Palmeiro",
-    "url": "https://postal.pt/opiniao/jornalista-portuguesa-sofia-craveiro-vence-premio-mulheres-euro-mediterranicas-no-jornalismo-por-joao-palmeiro/",
-    "published": "2026-11-27T07:20Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Ilda da Conceição do Carmo celebra 102 anos de vida em Moncarapacho",
-    "url": "https://postal.pt/algarve/ilda-da-conceicao-do-carmo-celebra-102-anos-de-vida-em-moncarapacho/",
-    "published": "2026-11-27T07:00Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Chuva ganha terreno no domingo e dezembro pode começar com uma mudança no Atlântico",
-    "url": "https://postal.pt/nacional/tempo/chuva-ganha-terreno-no-domingo-e-dezembro-pode-comecar-com-uma-mudanca-no-atlantico/",
-    "published": "2026-11-27T06:30Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "O carro gasta mais combustível quando está frio? É nos trajetos curtos que a diferença mais se nota",
-    "url": "https://postal.pt/nacional/o-carro-gasta-mais-combustivel-quando-esta-frio-e-nos-trajetos-curtos-que-a-diferenca-mais-se-nota/",
-    "published": "2026-11-26T20:30Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Vive no Algarve e gosta de pintar ou desenhar? A exposição em Olhão que aceita trabalhos de artistas sem experiência profissional",
-    "url": "https://postal.pt/algarve/vive-no-algarve-e-gosta-de-pintar-ou-desenhar-a-exposicao-em-olhao-que-aceita-trabalhos-de-artistas-sem-experiencia-profissional/",
-    "published": "2026-11-26T18:50Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "PJ detém cinco suspeitos de rapto de cidadão russo que terá sido assassinado",
-    "url": "https://postal.pt/nacional/pj-detem-cinco-suspeitos-de-rapto-de-cidadao-russo-que-tera-sido-assassinado/",
-    "published": "2026-11-26T18:30Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   }
-  ]
+  "main_headline": null,
+  "items": []
  }
 }
