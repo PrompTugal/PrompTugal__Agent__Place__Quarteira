@@ -384,83 +384,83 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T07:36Z",
+  "read_at": "2026-11-28T18:38Z",
   "by": "place.quarteira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Chuva dá tréguas no feriado de 1 de dezembro, mas frio aperta e termómetros podem descer aos 3 ºC",
-   "url": "https://postal.pt/nacional/tempo/chuva-da-treguas-no-feriado-de-1-de-dezembro-mas-frio-aperta-e-termometros-podem-descer-aos-3-oc/",
+   "title": "Ainda não acabou e novembro já é um dos mais chuvosos do século: IPMA revela as regiões mais castigadas",
+   "url": "https://postal.pt/nacional/tempo/ainda-nao-acabou-e-novembro-ja-e-um-dos-mais-chuvosos-do-seculo-ipma-revela-as-regioes-mais-castigadas/",
    "source": "Postal do Algarve",
    "date": "2026-11-28",
-   "read_at": "2026-11-28T07:25:21Z",
+   "read_at": "2026-11-28T18:24:48Z",
    "names_place": false
   },
   "items": [
    {
-    "title": "Chuva dá tréguas no feriado de 1 de dezembro, mas frio aperta e termómetros podem descer aos 3 ºC",
-    "url": "https://postal.pt/nacional/tempo/chuva-da-treguas-no-feriado-de-1-de-dezembro-mas-frio-aperta-e-termometros-podem-descer-aos-3-oc/",
-    "published": "2026-11-28T07:00Z",
+    "title": "Ainda não acabou e novembro já é um dos mais chuvosos do século: IPMA revela as regiões mais castigadas",
+    "url": "https://postal.pt/nacional/tempo/ainda-nao-acabou-e-novembro-ja-e-um-dos-mais-chuvosos-do-seculo-ipma-revela-as-regioes-mais-castigadas/",
+    "published": "2026-11-28T17:50Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-28T07:25:21Z",
+    "read_at": "2026-11-28T18:24:48Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
    {
-    "title": "E-REDES vai cortar a eletricidade no domingo em 12 concelhos: o Algarve está na lista e há interrupções de até sete horas",
-    "url": "https://postal.pt/nacional/e-redes-vai-cortar-a-eletricidade-no-domingo-em-12-concelhos-o-algarve-esta-na-lista-e-ha-interrupcoes-de-ate-sete-horas/",
-    "published": "2026-11-28T06:20Z",
+    "title": "Os salários mais baixos foram os que mais subiram em dez anos, mas houve um grupo de profissões que perdeu poder de compra",
+    "url": "https://postal.pt/nacional/os-salarios-mais-baixos-foram-os-que-mais-subiram-em-dez-anos-mas-houve-um-grupo-de-profissoes-que-perdeu-poder-de-compra/",
+    "published": "2026-11-28T16:30Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-28T07:25:21Z",
+    "read_at": "2026-11-28T18:24:48Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
    {
-    "title": "Lembra-se do Aqualine? O que é feito do parque aquático no Algarve que está fechado há mais de 30 anos",
-    "url": "https://postal.pt/algarve/lembra-se-do-aqualine-o-que-e-feito-do-parque-aquatico-no-algarve-que-esta-fechado-ha-mais-de-30-anos/",
-    "published": "2026-11-27T20:40Z",
+    "title": "E-REDES vai cortar a eletricidade em 16 concelhos este domingo e segunda-feira: Algarve está na lista",
+    "url": "https://postal.pt/nacional/e-redes-vai-cortar-a-eletricidade-em-16-concelhos-este-domingo-e-segunda-feira-algarve-esta-na-lista/",
+    "published": "2026-11-28T15:50Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-28T07:25:21Z",
+    "read_at": "2026-11-28T18:24:48Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "Se compra azeite virgem extra, tenha atenção: estas quatro marcas vendidas com essa indicação falharam teste de qualidade",
-    "url": "https://postal.pt/nacional/se-compra-azeite-virgem-extra-tenha-atencao-estas-quatro-marcas-vendidas-com-essa-indicacao-falharam-teste-de-qualidade/",
-    "published": "2026-11-27T20:30Z",
+    "title": "Vai receber o subsídio de Natal em dezembro? Pode descontar mais IRS do que quem recebeu em novembro",
+    "url": "https://postal.pt/economia/vai-receber-o-subsidio-de-natal-em-dezembro-pode-descontar-mais-irs-do-que-quem-recebeu-em-novembro/",
+    "published": "2026-11-28T15:30Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-28T07:25:21Z",
+    "read_at": "2026-11-28T18:24:48Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "Moncarapacho celebra dezembro com matinés seniores, música e tradições natalícias",
-    "url": "https://postal.pt/algarve/moncarapacho-celebra-dezembro-com-matines-seniores-musica-e-tradicoes-natalicias/",
-    "published": "2026-11-27T19:34Z",
+    "title": "Já lá entrou? No Algarve há uma igreja do século XVIII cujo interior está quase inteiramente coberto de azulejos",
+    "url": "https://postal.pt/algarve/ja-la-entrou-no-algarve-ha-uma-igreja-do-seculo-xviii-cujo-interior-esta-quase-inteiramente-coberto-de-azulejos/",
+    "published": "2026-11-28T15:10Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-28T07:25:21Z",
+    "read_at": "2026-11-28T18:24:48Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "Iniciativa solidária na Luz de Tavira transforma fardamento usado em camas para animais",
-    "url": "https://postal.pt/algarve/iniciativa-solidaria-na-luz-de-tavira-transforma-fardamento-usado-em-camas-para-animais/",
-    "published": "2026-11-27T19:06Z",
+    "title": "Três professores de Olhão em formação Erasmus+ na Ilha da Reunião",
+    "url": "https://postal.pt/cultura/ensino/tres-professores-de-olhao-em-formacao-erasmus-na-ilha-da-reuniao/",
+    "published": "2026-11-28T15:00Z",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-28T07:25:21Z",
+    "read_at": "2026-11-28T18:24:48Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    }
   ]
  }
